@@ -9,3 +9,4 @@ Projects:
 - Histograms
 - Scatter Plots
 - Data Visualization Dashboards
+- And many more
