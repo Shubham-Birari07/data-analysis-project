@@ -7,3 +7,4 @@ Projects:
 - Correlation Heatmaps
 - Pair Plots
 - Statistical Visualizations
+- And many more mini Projects
